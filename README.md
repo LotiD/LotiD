@@ -1,7 +1,7 @@
 Bonjour à tous !
 
 ## À propos de moi
-Je suis Loti Didier, Développeur Web débutant en Mastère Lead Développeur Full Stack.
+Je suis Loti Didier, Développeur Web Mastère Lead Développeur Full Stack.
 
 ## Compétences
 - HTML/CSS
